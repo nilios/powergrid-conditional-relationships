@@ -2,7 +2,7 @@
 #### run sail
 #### run sail artisan migrate
 #### run sail artisan db:seed
-#### visit http://localhostj
+#### visit http://localhost
 
 If everything is working you should see a list of fake store names with a list of device names and a column identifying if they are products or peripherlas.
 
